@@ -3,7 +3,7 @@
     "pack_format": 7,
      "description": "§6Imperium Totems"
   },
-  "download_url": "",
+  "download_url": "https://github.com/lexize/imperium_totems/raw/main/ImperiumTotems.zip",
   "check_url": "https://raw.githubusercontent.com/lexize/imperium_totems/main/update_data.json"
   "version": 1.1
 }

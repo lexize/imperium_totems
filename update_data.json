@@ -4,6 +4,6 @@
      "description": "§6Imperium Totems"
   },
   "download_url": "",
-  "check_url": ""
-  "version": 1
+  "check_url": "https://raw.githubusercontent.com/lexize/imperium_totems/main/update_data.json"
+  "version": 1.1
 }

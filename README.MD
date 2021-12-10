@@ -15,7 +15,7 @@
 | Libontov|![AngryTortik](https://github.com/lexize/imperium_totems/blob/main/libontov.png?raw=true)
 | Kirolis|![AngryTortik](https://github.com/lexize/imperium_totems/blob/main/kirolis.png?raw=true)
 | \_hadouken|![AngryTortik](https://github.com/lexize/imperium_totems/blob/main/hadouken.png?raw=true)
-| dobriyRaiLeax|![AngryTortik](https://github.com/lexize/imperium_totems/blob/main/AngryTortik.png?raw=true)
+| dobriyRaiLeax|![AngryTortik](https://github.com/lexize/imperium_totems/blob/main/railex.png?raw=true)
 
 Что бы не заморачиваться с постоянным скачиванием респака когда он обновляется, в архив так-же закинут мод для автообновлений. Никаких зависимостей для него не надо, тупо закидываете в папку **mods**. [*У него кстати тоже есть своя страничка на GitHub.*](https://github.com/lexize/ResPackAutoUpdater "GitHub")
 

@@ -9,6 +9,11 @@
 * Feyhui
 * Old_PC
 * sarcasming
+* Jankero_
+* Libontov
+* Kirolis
+* _hadouken
+* dobriyRaiLeax
 
 Что бы не заморачиваться с постоянным скачиванием респака когда он обновляется, в архив так-же закинут мод для автообновлений. Никаких зависимостей для него не надо, тупо закидываете в папку **mods**. [*У него кстати тоже есть своя страничка на GitHub.*](https://github.com/lexize/ResPackAutoUpdater "GitHub")
 
